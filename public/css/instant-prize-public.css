@@ -1,0 +1,6 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.competition-coupons { display: flex; flex-direction: column; gap: 8px; } .competition-coupon { display: flex; gap: 16px; padding: 16px; background: var(--e-global-color-primary); color: var(--e-global-color-text); } .cc-code { background: rgba(0,0,0,0.2); padding: 8px; height: fit-content; } .cc-description { margin: 0 !important; align-self: center; } .cc-title { margin: 0 !important; color: var(--e-global-color-text) !important; }
